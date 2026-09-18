@@ -108,7 +108,7 @@ If you find this project helpful, please consider giving it a ⭐️ on GitHub. 
 - If you want to add more words and context to the flashcards, simply instruct, 'Please add more words with their contexts and explanations from this vocab.db file,' and it will append more flashcards to the file within the Kindle Flashcards API.
 - If you want to download the file, you can ask the link for him. And if you're not being able to click on the link, you can get your link in this way: 
 ```
-api.kindle-flashcards.gustavostz.com/download/{fileName}
+https://api.kindle-flashcards.gustavostz.com/download/{fileName}
 ```
 
 ![How to get the download link](ReadMe-assets/how-to-get-download-link.png)
